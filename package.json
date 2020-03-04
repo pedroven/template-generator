@@ -1,0 +1,14 @@
+{
+	"name": "template-generator",
+	"version": "1.0.0",
+	"description": "A simple template generator",
+	"main": "index.js",
+	"author": "Pedro <pedrobeethoven8@gmail.com>",
+	"license": "MIT",
+	"bin": {
+		"generator": "./index.js"
+	},
+	"dependencies": {
+		"inquirer": "^7.0.6"
+	}
+}
